@@ -59,4 +59,4 @@ SublimeText 2 or 3 IDE with Ruby Build With System
 
 ## Authors
 
-* **Chetan Rana** - [Princess1](https://github.com/PurpleBooth)
+* **Chetan Rana** - [Princess](https://github.com/chetanrana2702/princess1)
