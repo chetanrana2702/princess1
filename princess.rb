@@ -1,3 +1,5 @@
+# Display the complete path of Bot to find Princess
+# This function is for problem first Bot saves princess
 def displayPathtoPrincess(n, grid)
   return false if n == 0 && grid.empty?
 
@@ -26,6 +28,7 @@ def displayPathtoPrincess(n, grid)
 end
 
 # Find out the next move of Bot towards Princess
+# This function is for problem second Bot saves princess - 2
 def nextMove(n,r,c,grid)
   return false if n == 0 && grid.empty?
 
